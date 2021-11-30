@@ -1,3 +1,8 @@
+[web_servers]
 server-1@192.168.220.128
+
+[db_servers]
 server-2@192.168.220.130
+
+[file_servers]
 server-3@192.168.220.131
